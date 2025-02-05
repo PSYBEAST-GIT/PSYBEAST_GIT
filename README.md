@@ -21,9 +21,5 @@ Hello, world! 👾<br>I live to break barriers and expose vulnerabilities. As a 
 ---
 [![](https://visitcount.itsvg.in/api?id=PSYBEAST-GIT&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://PSYBEAST-GIT.github.io/PSYBEAST-GIT/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://PSYBEAST-GIT.github.io/PSYBEAST-GIT/github-snake.svg" />
-  <img alt="github-snake" src="https://PSYBEAST-GIT.github.io/PSYBEAST-GIT/github-snake.svg" />
-</picture>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/PSYBEAST-GIT/PSYBEAST-GIT/output/github-contribution-grid-snake.svg)
 
