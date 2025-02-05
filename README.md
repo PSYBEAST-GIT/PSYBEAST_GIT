@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hello, world! 👾<br>I live to break barriers and expose vulnerabilities. As a future penetration tester, I dive deep into cybersecurity, mastering the art of ethical hacking. 🔥 Skilled in Flutter, Python, SQL, Java, C, and C++, I code, crack, and secure—turning weaknesses into strengths. The hunt for exploits never stops. 💀🚀
 # My TryHackME profile 
- [TryHackMe - PSYBEAST](https://tryhackme.com/p/PSYBEAST)
+![TryHackMe Badge](https://tryhackme.com/badge/PSYBEAST)
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
