@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hello, world! 👾<br>I live to break barriers and expose vulnerabilities. As a future penetration tester, I dive deep into cybersecurity, mastering the art of ethical hacking. 🔥 Skilled in Flutter, Python, SQL, Java, C, and C++, I code, crack, and secure—turning weaknesses into strengths. The hunt for exploits never stops. 💀🚀
-# My TryHackME profile 
-![TryHackMe Badge](https://tryhackme.com/badge/PSYBEAST)
+## My TryHackMe Profile
+
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1614945)
 
 
 # 💻 Tech Stack:
